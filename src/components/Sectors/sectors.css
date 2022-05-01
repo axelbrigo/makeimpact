@@ -1,0 +1,40 @@
+.section__sectors {
+  width: 100%;
+  height: 300px;
+}
+
+.picture__sectors {
+  position: relative;
+  width: 100%;
+  height: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow:inset 2px -13px 20px 1px black;
+}
+
+.picture__text {
+justify-content: space-between;
+padding: 0 35px;
+  display: flex;
+  align-items: center;
+}
+
+.view__all--button {
+  text-decoration: none;
+  color: white;
+}
+
+.picture__sectors p {
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+}
+
+.main__picture-text {
+  width: 100%;
+  position: absolute;
+  top: 3.5rem;
+  transform-origin: center;
+}
+
+
+

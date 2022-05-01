@@ -1,0 +1,51 @@
+.companies__container{
+  color: white;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-start;
+  padding-left: 10px;
+ 
+ }
+ 
+ .companies__square {
+   max-width: 150px;
+  width: auto;
+   height: 52px;
+   background-color: white;
+   display: flex;
+   justify-content:center;
+   align-items: center;
+   border-radius: 8px;
+   padding: 10px;
+   box-shadow: 4px 4px 16px 0 rgba(10, 10, 20, 0.16);
+ }
+ 
+ .image__logo {
+   width: 100%;
+ }
+ 
+ .image__logo img {
+   border-radius: 50%;
+   width: 32px;
+   height: 32px;
+   object-fit: cover;
+ }
+ 
+ .companies__logo--info {
+   color: black;
+   font-size: 18px;
+   display: flex;
+   flex-direction: column;
+   width: 70%;
+   
+ }
+ 
+ .companies__logo--info h5 {
+   margin: 0;
+ }
+ 
+ .companies__logo--info p {
+   color:#646467;
+   font-size: 10px;
+ }
+ 

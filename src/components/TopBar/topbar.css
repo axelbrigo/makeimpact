@@ -1,0 +1,26 @@
+.container__topbar {
+  display: flex;
+
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px;
+}
+
+.container__user {
+  width: 44px;
+  height: 44px;
+  background-color: #f3d4d9;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10px;
+}
+
+.container__user--greetings {
+  margin-left: 30px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 10%;
+}

@@ -1,0 +1,32 @@
+.container__navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.container__navbar--items {
+width: 80%;
+height: 16px;
+font-size: 0.8rem;
+display: flex;
+justify-content: space-around;
+align-items: center;
+gap: 10px;
+padding: 10px 14px 11px;
+border-radius: 18px;
+background-color: #c6c6c6;;
+margin-bottom: 10px;
+color: #646467;
+}
+
+.container__navbar--items  a {
+  text-decoration: none;
+  color: gray;
+}
+
+.container__navbar--items  a:hover {
+padding: 10px;
+  border-radius: 18px;
+  background-color: #303037;
+
+}

@@ -1,0 +1,93 @@
+[
+  {
+      "sector": "Electricity",
+      "description": "CSA 100 accelerates the adoption of Climate Smart Agriculture (CSA) in the food, beverage and agriculture sector. Showing that business plays a critical role in meeting the Paris Agreement, the initiative brings together 100 influential companies to make science-based and measurable commitments to 2030, across three pillars: Productivity, resilience and mitigation. Making progress on mitigation in the food and agriculture sector is particularly crucial to meet the Paris Agreement, as it represents 25% of all GHG emissions. This sector is also the most vulnerable to climate change, and yet it must grow substantially in order to meet the daily nutritional needs of 10 billion people by 2050.",
+      "title":"⚡Electricity",
+      "type":"Electricity",
+      "companies":
+      [
+          {
+            "id": "01",
+            "name": "PVH Corp.",
+            "image": "https://i.ibb.co/JqHbMLq/PVH-Corp-logo-1080x745.jpg",
+            "price": "82,69 €"
+          },
+          {
+            "id": "02",
+            "name": "AXA",
+            "image": "https://i.ibb.co/5X3sm0Z/axa-logo-2-768x768.png",
+            "price": "26,53 €"
+          },
+          {
+            "id": "03",
+            "name": "KESKO",
+            "image": "https://i.ibb.co/9wL8pPN/kesko-corporation-logo-vector.png",
+            "price": "134,69 €"
+          }
+      ]
+  },
+  {
+      "sector": "Alternative Energy",
+      "description": "CSA 100 accelerates the adoption of Climate Smart Agriculture (CSA) in the food, beverage and agriculture sector. Showing that business plays a critical role in meeting the Paris Agreement, the initiative brings together 100 influential companies to make science-based and measurable commitments to 2030, across three pillars: Productivity, resilience and mitigation. Making progress on mitigation in the food and agriculture sector is particularly crucial to meet the Paris Agreement, as it represents 25% of all GHG emissions. This sector is also the most vulnerable to climate change, and yet it must grow substantially in order to meet the daily nutritional needs of 10 billion people by 2050.",
+      "title":"☀️Alternative Energy",
+      "type" :"Alternative-Energy",
+      "companies":[
+          {
+            "id": "04",
+            "name": "Santander Bank",
+            "image": "https://i.ibb.co/vX7Rn3Y/Santander-Bank-Image-Logo-png-hd.png",
+            "price": "134,69 €"
+          },
+          {
+            "id": "05",
+            "name": "Schneder",
+            "image": "https://i.ibb.co/ZNYxp2j/shneder.png",
+            "price": "17,60 €"
+          }
+      ]
+  },
+  {
+      "sector" : "Forestry & Paper",
+      "description": "CSA 100 accelerates the adoption of Climate Smart Agriculture (CSA) in the food, beverage and agriculture sector. Showing that business plays a critical role in meeting the Paris Agreement, the initiative brings together 100 influential companies to make science-based and measurable commitments to 2030, across three pillars: Productivity, resilience and mitigation. Making progress on mitigation in the food and agriculture sector is particularly crucial to meet the Paris Agreement, as it represents 25% of all GHG emissions. This sector is also the most vulnerable to climate change, and yet it must grow substantially in order to meet the daily nutritional needs of 10 billion people by 2050.",
+      "title":"🍁Forestry & Paper",
+      "type" : "Forestry-&-Paper",
+      "companies":[ 
+          {
+            "id": "06",
+            "name": "Unilerver",
+            "image": "https://i.ibb.co/Zf8KsrD/unilever.png",
+            "price": "100,69 €"
+          },
+          {
+            "id": "07",
+            "name": "Orsted",
+            "image": "https://i.ibb.co/m5yq2Zz/orsted.png",
+            "price": "54,69 €"
+          }
+      ]
+  },
+  {
+      "sector": "Food & Drug Retailers",
+      "description": "CSA 100 accelerates the adoption of Climate Smart Agriculture (CSA) in the food, beverage and agriculture sector. Showing that business plays a critical role in meeting the Paris Agreement, the initiative brings together 100 influential companies to make science-based and measurable commitments to 2030, across three pillars: Productivity, resilience and mitigation. Making progress on mitigation in the food and agriculture sector is particularly crucial to meet the Paris Agreement, as it represents 25% of all GHG emissions. This sector is also the most vulnerable to climate change, and yet it must grow substantially in order to meet the daily nutritional needs of 10 billion people by 2050.",
+      "title":"💊Food & Drug Retailers",
+      "type":"Food-&-Drug-Retailers",
+      "companies":[
+        {
+          "id": "08",
+        "name": "SCASvenska",
+        "image": "https://i.ibb.co/Hp50w7g/svenska-cellulosa-aktiebolaget-sca-logo-vector.png",
+        "price": "47,92 €"
+        },
+        {
+          "id": "09",
+        "name": "Danone",
+        "image": "https://i.ibb.co/MV4vHSG/danone.png",
+        "price": "49,22 €"
+        }
+      ]
+  }
+]
+  
+
+
+   

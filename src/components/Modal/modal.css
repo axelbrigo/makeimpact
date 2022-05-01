@@ -1,0 +1,41 @@
+.modal__background{
+  width: 100vw;
+  height: 100vh;
+  backdrop-filter: blur(10px);
+  position: fixed;
+  bottom: 0;
+}
+
+.modal__container{
+  position: absolute;
+  bottom: 0;
+  height: 70%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
+align-items: center;
+background-color: white;
+color: black;
+border-radius: 3% 3% 0 0;
+
+}
+
+.modal__container button {
+  cursor: pointer;
+  background-color: white;
+  font-size: 1.7rem;
+  position: absolute;
+  bottom: 10px;
+}
+
+.body {
+  padding: 15px;
+}
+
+.body p {
+  font-size: 0.8rem;
+}
+.body h2 {
+  font-size: 1rem;
+}
